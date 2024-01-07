@@ -1,6 +1,5 @@
 from block import *
 
-
 class Game:
     def __init__(self):
         """

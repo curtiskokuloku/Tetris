@@ -32,9 +32,9 @@
 ## How to Install and Run the Project (In Your Terminal)
 
 1. Clone the repository to your local machine
-   - `git clone https://github.com/`
+   - `git clone https://github.com/curtiskokuloku/Snake.git`
 2. Navigate to the project directory
-   - `cd Tetris`
+   - `cd Tetris/src`
 3. Run the main Python file
    - `python main.py`
 
