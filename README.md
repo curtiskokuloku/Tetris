@@ -1,10 +1,10 @@
-# Tetris Game in Python
+# Tetris
 
 <img src="tetris-demo.gif" width="300"/>
 
 ## Project Description
 
-> This project is a classic Tetris game implemented in Python, leveraging the Turtle graphics library for rendering the game interface. The main aim is to provide a fun and interactive experience for users who enjoy playing Tetris.
+> Classic Tetris game created in Python using the Turtle graphics library. Aims to deliver a fun and interactive gaming experience. Demonstrates expertise in Python programming and graphical user interface design.
 
 ## Key Features
 
